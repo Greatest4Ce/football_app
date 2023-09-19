@@ -7,6 +7,11 @@ environment:
   sdk: '>=3.0.6 <4.0.0'
 
 dependencies:
+<<<<<<< Updated upstream
+=======
+  cached_network_image: ^3.2.3
+  dio: ^5.3.2
+>>>>>>> Stashed changes
   flutter:
     sdk: flutter
   flutter_riverpod: ^2.4.0
