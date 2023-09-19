@@ -37,6 +37,7 @@ class ModulesList extends StatelessWidget {
                         ),
                       ],
                     ),
+
             )
             .toList(),
       ),
