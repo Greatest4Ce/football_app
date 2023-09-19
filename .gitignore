@@ -48,8 +48,6 @@ app.*.map.json
 /android/app/release
 pubspec.lock
 
-/android
-/ios
 /web
 /windows
 /macos
