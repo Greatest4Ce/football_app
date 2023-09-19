@@ -6,8 +6,8 @@ part 'content_tag.g.dart';
 @freezed
 class ContentTag with _$ContentTag {
   const factory ContentTag({
-    @JsonKey(name: 'id') required String? id,
-    @JsonKey(name: 'type') required String? type,
+    @JsonKey(name: 'id') required String id,
+    @JsonKey(name: 'type') required String type,
   }) = _ContentTag;
 
   factory ContentTag.fromJson(Map<String, Object?> json) =>
